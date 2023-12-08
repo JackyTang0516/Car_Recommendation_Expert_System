@@ -3,6 +3,8 @@ Prolog based AI recommendation system
 
 Slides: https://docs.google.com/presentation/d/1T-hxTncLMU3qBrtfZll_j9WSRgVsILQcKNP2NFRhxsY/edit?usp=sharing
 
+Datasets: https://www.kaggle.com/datasets/doaaalsenani/usa-cers-dataset/
+
 Overview
 
 
