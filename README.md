@@ -1,4 +1,4 @@
-# Vehicle_Expert_System
+# Car_Recommendation_Expert_System
 Prolog based AI recommendation system
 
 Slides: https://docs.google.com/presentation/d/1T-hxTncLMU3qBrtfZll_j9WSRgVsILQcKNP2NFRhxsY/edit?usp=sharing
@@ -29,14 +29,20 @@ This point underlines the system's focus on user experience, which is crucial fo
 
 
 
-How-To-Start
+Demo
 
+<img width="754" alt="image" src="https://github.com/JackyTang0516/Car_Recommendation_Expert_System/assets/111934442/89cbf98d-d455-4995-a069-c2f682e0d36c">
+
+<img width="771" alt="image" src="https://github.com/JackyTang0516/Car_Recommendation_Expert_System/assets/111934442/336737f2-8f49-4e29-8a77-eb05febc31ac">
+
+
+
+How-To-Start
+(keep the database.pl and main.pl in the same directory, and set a path where your feedback.txt file will be created.)
 1. Open SWI-Prolog:
 Launch the SWI-Prolog environment on your computer.
 2. Load (Compile) the Program:
-Once SWI-Prolog is open, you need to load or compile your Prolog file. This can be done using the consult predicate.
-For example, if your main file is named 'main.pl' and it's located in the directory 'C:/myexpertsystem/', you would type the following command in the SWI-Prolog environment and press enter:
-consult('C:/myexpertsystem/main.pl'). Make sure to replace 'C:/myexpertsystem/main.pl' with the actual path and filename of your Prolog file.
-4. Run the System:
-After successfully compiling the file, you can start the expert system by typing main. and pressing enter.
-The system will then guide you through a series of questions to determine your car preferences.
+consult('C:/myexpertsystem/main.pl').
+3. Run the System:
+main.
+
