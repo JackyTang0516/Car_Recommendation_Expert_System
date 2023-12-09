@@ -1,5 +1,5 @@
 # Car_Recommendation_Expert_System
-Prolog based AI recommendation system
+Prolog based Car Recommendation Expert System
 
 Slides: https://docs.google.com/presentation/d/1T-hxTncLMU3qBrtfZll_j9WSRgVsILQcKNP2NFRhxsY/edit?usp=sharing
 
