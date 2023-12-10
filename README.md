@@ -50,16 +50,22 @@ Demo(Standard):
 <img width="771" alt="image" src="https://github.com/JackyTang0516/Car_Recommendation_Expert_System/assets/111934442/336737f2-8f49-4e29-8a77-eb05febc31ac">
 
 
+Demo(Feedback collection):
+
+<img width="500" alt="image" src="https://github.com/JackyTang0516/Car_Recommendation_Expert_System/assets/111934442/2b443efd-2a51-4a18-88d7-ecbba199ed8d">
+
+
 Demo(Fallback):
 
 
 <img width="882" alt="image" src="https://github.com/JackyTang0516/Car_Recommendation_Expert_System/assets/111934442/d692ac03-2d89-45fe-8d4b-98f36be1f5a4">
 
 
-Demo(Invalid input):
+Demo(Invalid input check):
 
 
 <img width="363" alt="image" src="https://github.com/JackyTang0516/Car_Recommendation_Expert_System/assets/111934442/eb7aefa9-d621-4799-9ce5-5f22efa4edd8">
+
 
 
 
