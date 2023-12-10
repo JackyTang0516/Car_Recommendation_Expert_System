@@ -1,0 +1,16 @@
+--------------------------------------------
+Car Models: [audi,subaru]
+User Choices: [budget:any,purpose:fun_purpose,driving_experience:precision_handling,financial_situation:financially_comfortable,style_preference:specific_style_preference,offroad_use:frequent_offroad]
+Comments: good,12345abc@email.com
+--------------------------------------------
+Car Models: [subaru]
+User Choices: [budget:high_budget,purpose:fun_purpose,driving_experience:precision_handling,financial_situation:financially_comfortable,style_preference:specific_style_preference,offroad_use:frequent_offroad]
+Comments: Excellent, +11234567890
+--------------------------------------------
+Car Models: [ford_chevy_nissan]
+User Choices: [budget:low_budget,purpose:transport_purpose,main_concern:budget_concern,fuel_preference:prefers_electric]
+Comments: Awesome, abc123@email.com
+--------------------------------------------
+Car Models: [jaguar_f,jaguar_f]
+User Choices: [budget:high_budget,purpose:fun_purpose,driving_experience:fast_experience,engine_cylinders:eight_cylinders,passenger_capacity:no_passengers,luxury_preference:prefers_luxury,car_design:elegant_design]
+Comments: Of course, I need more info about these two cars! Thanks!
