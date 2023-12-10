@@ -5,7 +5,9 @@ Slides: https://docs.google.com/presentation/d/1T-hxTncLMU3qBrtfZll_j9WSRgVsILQc
 
 Datasets(Car-Rules): 
 
-https://www.kaggle.com/datasets/doaaalsenani/usa-cers-dataset/
+https://www.kaggle.com/datasets/doaaalsenani/usa-cers-dataset
+
+https://www.kaggle.com/datasets/tawfikelmetwally/automobile-dataset
 
 Datasets(Descriptions): 
 
