@@ -23,7 +23,6 @@
 Welcome to the Car Recommendation Expert System. This Prolog-based system is designed to assist users in finding the perfect car based on their specific preferences and requirements. The system uses a comprehensive knowledge base, including a wide range of questions and answers about budget, purpose, concerns, and personal preferences related to car purchasing. It also includes detailed descriptions of various car models to match the user's answers with the most suitable car options.
 
 
-
 ## Key Features
 
 - Dynamic Questioning:
@@ -41,6 +40,20 @@ Mentioning how feedback is used to enhance future recommendations demonstrates a
 - User Engagement:
 This point underlines the system's focus on user experience, which is crucial for any interactive system.
 
+
+
+## Logic
+
+- Introduction: The system introduces itself to the user and explains its purpose.
+- User Input: The user provides input through a series of questions.
+
+  These questions cover: Budget, Purpose of the car (e.g., for transport, fun, etc.), Preferences (environmental concern, luxury, etc.)
+- System Processing: The system processes the user's input by accessing the following:
+- Knowledge Base: A database containing information on different car models, attributes, and rules for recommendation.
+- Matching Cars: The system applies rules to find cars that match the user's criteria based on the input provided.
+- Fallback Suggestion: If no cars match the criteria, the system provides a generic fallback suggestion.
+- User Feedback: The system then asks for user feedback on the suggestions.
+- Thank User: Finally, the system thanks the user for their participation.
 
 
 
