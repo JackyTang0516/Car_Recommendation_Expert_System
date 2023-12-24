@@ -90,7 +90,10 @@ This point underlines the system's focus on user experience, which is crucial fo
 ### Open SWI-Prolog:
 - Launch the SWI-Prolog environment on your computer.
 ### Load (Compile) the Program:
-- consult('C:/myexpertsystem/main.pl').
+```
+$ consult('C:/myexpertsystem/main.pl').
+```
 ### Run the System:
-- main.
-
+```
+$ main.
+```
